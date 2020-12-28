@@ -27,7 +27,7 @@ fun main() {
     budi.pos = "Barat"
     budi.menjaga()
     
-    val adi = Satpam()
+    val adi = Pilot()
     budi.nama = "Adi Prasetyo"
     budi.alamat = "Sleman"
     budi.perkenalan()
