@@ -26,4 +26,13 @@ fun main() {
     budi.bekerja()
     budi.pos = "Barat"
     budi.menjaga()
+    
+    val adi = Satpam()
+    budi.nama = "Adi Prasetyo"
+    budi.alamat = "Sleman"
+    budi.perkenalan()
+    budi.gaji = 5000000
+    budi.bekerja()
+    budi.maskapai = "Lion Air"
+    budi.bekerja()
 }
