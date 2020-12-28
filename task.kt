@@ -35,4 +35,49 @@ fun main() {
     budi.bekerja()
     budi.maskapai = "Lion Air"
     budi.bekerja()
+    
+    val nina = perawat()
+    budi.nama = "Nurlina Nina"
+    budi.alamat = "Pati"
+    budi.perkenalan()
+    budi.gaji = 200000
+    budi.bekerja()
+    budi.klinik = "Sehat Sentosa"
+    budi.bekerja()
+    
+    val mina = Pramugari()
+    budi.nama = "Mina Lestari"
+    budi.alamat = "Jepara"
+    budi.perkenalan()
+    budi.gaji = 3000000
+    budi.bekerja()
+    budi.maskapai = "Air Asia"
+    budi.bekerja()
+    
+    val arka = Dokter()
+    budi.nama = "Arkana Mahesa"
+    budi.alamat = "Jakarta"
+    budi.perkenalan()
+    budi.gaji = 4000000
+    budi.bekerja()
+    budi.klinik = "Sehat Mulia"
+    budi.bekerja()
+    
+    val dito = Chef()
+    budi.nama = "Dito Nugroho"
+    budi.alamat = "Palembang"
+    budi.perkenalan()
+    budi.gaji = 3500000
+    budi.memasak()
+    budi.restoran = "Kenyang Nikmat"
+    budi.memasak()
+    
+    val Arman = Polisi()
+    budi.nama = "Arman Pradityo"
+    budi.alamat = "Bali"
+    budi.perkenalan()
+    budi.gaji = 2500000
+    budi.menjaga()
+    budi.polsek = "Kuta"
+    budi.menjaga()
 }
